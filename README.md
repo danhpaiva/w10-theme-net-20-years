@@ -1,2 +1,3 @@
-# w10-theme-net-20-years
-🖌️
+# A .Net stack theme
+
+=)
